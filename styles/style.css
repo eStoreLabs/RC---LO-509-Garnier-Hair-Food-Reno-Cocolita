@@ -434,8 +434,7 @@ body {
   transition: all 300ms ease-in-out;
 }
 #es-garnier.es-garnier .es-use__imgCtn img:hover {
-  transform: rotate(720deg);
-  scale: 1.1;
+  scale: 1.05;
 }
 #es-garnier.es-garnier .es-use__imgCtn:before {
   position: absolute;
